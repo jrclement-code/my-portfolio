@@ -12,7 +12,7 @@ export default function Skills() {
           <div className="bg-zinc-800 rounded-xl shadow-lg p-6 hover:scale-105 transition">
             <h3 className="text-xl font-semibold text-green-500 mb-2">Emmet</h3>
             <p>
-              Uso de abreviaciones para escribir código HTML y CSS de forma rápida y eficiente.
+              Emmet acelera la escritura de HTML y CSS usando abreviaciones. Se aprendió explorando el plugin de Emmet en editores como VSCode y aplicando sus atajos.
             </p>
           </div>
 
@@ -20,7 +20,7 @@ export default function Skills() {
           <div className="bg-zinc-800 rounded-xl shadow-lg p-6 hover:scale-105 transition">
             <h3 className="text-xl font-semibold text-green-500 mb-2">HTML</h3>
             <p>
-              Maquetación de páginas web estructuradas utilizando etiquetas semánticas de HTML5.
+              HTML permite estructurar contenido web. Se aprendió a través de cursos introductorios y prácticas creando páginas desde cero.
             </p>
           </div>
 
@@ -28,7 +28,7 @@ export default function Skills() {
           <div className="bg-zinc-800 rounded-xl shadow-lg p-6 hover:scale-105 transition">
             <h3 className="text-xl font-semibold text-green-500 mb-2">CSS</h3>
             <p>
-              Aplicación de estilos modernos con Flexbox, Grid y animaciones usando CSS3 puro.
+              CSS define el estilo visual de un sitio. Se aprendió aplicando propiedades como <code>flexbox</code>, <code>grid</code> y animaciones en pequeños proyectos.
             </p>
           </div>
 
