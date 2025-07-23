@@ -7,9 +7,6 @@ const Footer = () => {
         {/* Sección: Descripción */}
         <div className="md:w-1/3">
           <h3 className="text-green-500 text-xl font-bold mb-2">Portfolio</h3>
-          <p>
-            Desarrollador Full Stack especializado en crear soluciones web modernas e innovadoras.
-          </p>
         </div>
 
         {/* Sección: Enlaces rápidos */}

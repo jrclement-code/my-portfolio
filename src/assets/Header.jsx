@@ -9,7 +9,7 @@ export default function Header() {
           <a href="#hero" className="hover:text-green-500 transition">Inicio</a>
           <a href="#sobre-mi" className="hover:text-green-500 transition">Sobre Mí</a>
           <a href="#proyectos" className="hover:text-green-500 transition">Proyectos</a>
-          <a href="#contacto" className="hover:text-green-500 transition">Contacto</a>
+          <a href="#bibliografia" className="hover:text-green-500 transition">Bibliografía</a>
         </nav>
       </div>
     </header>

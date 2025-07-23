@@ -8,7 +8,8 @@ import Footer from "./assets/Footer";
 import Hero from "./assets/Hero";
 import About from "./assets/About";
 import Skills from "./assets/Skills";
-import Contact from "./assets/Contact";
+import Bibliografia from "./assets/Bibliografia";
+
 
 function App() {
   return (
@@ -24,8 +25,8 @@ function App() {
         <section id="proyectos">
           <Skills />
         </section>
-        <section id="contacto">
-          <Contact />
+        <section id="bibliografia">
+          <Bibliografia />
         </section>
       </main>
       <Footer />

@@ -36,7 +36,7 @@ export default function Skills() {
 
         {/* Botón debajo de las tarjetas */}
         <div className="mt-6 text-center">
-          <Link to="/portafolio/proyectos" className="inline-block bg-green-500 text-black font-semibold px-6 py-3 rounded-lg hover:bg-green-400 transition">
+          <Link to="/proyectos" className="inline-block bg-green-500 text-black font-semibold px-6 py-3 rounded-lg hover:bg-green-400 transition">
             Ver Más Proyectos
           </Link>
         </div>
